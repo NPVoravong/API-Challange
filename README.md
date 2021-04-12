@@ -1,4 +1,4 @@
-# Python APIs 
+# Weather Trends
 
 ## Prompt
 Using the [OpenWeatherMap API](https://openweathermap.org/api) determine if there are any observable weather trends in a cities around the world based on their longitude and latitude. Observe the temperature, humidity, cloudiness, and wind speed vs the latitude. Also compare northern and southern hemispheres against the same categories.
